@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Zyra Store Banner" width="100%" />
-</p>
+  <img src="baner.jpeg" alt="Zyra Store Banner" width="100%" /></p>
 
 <h1 align="center">Hi 👋, We're Zyra Store</h1>
 <h3 align="center">Premium FiveM Resources — ESX, QBCore, QBox & Standalone</h3>
