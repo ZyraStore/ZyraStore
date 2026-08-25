@@ -48,15 +48,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vercel,linux,bash,figma,ps" alt="skills" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyraStore&show_icons=true&locale=en&theme=tokyonight" alt="ZyraStore stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZyraStore&theme=tokyonight" alt="ZyraStore streak" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyraStore&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ZyraStore top languages" />
-</p>
